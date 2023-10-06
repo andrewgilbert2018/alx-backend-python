@@ -10,4 +10,4 @@ def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
     """
     Converts k str and v, to key value pairs
     """
-    return (k, float(v**2)
+    return (k, float(v**2))
