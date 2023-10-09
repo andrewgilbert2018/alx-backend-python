@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-A python script that
 Concurrent coroutines using async wait and asyncio.gather
 """
 from asyncio import gather
